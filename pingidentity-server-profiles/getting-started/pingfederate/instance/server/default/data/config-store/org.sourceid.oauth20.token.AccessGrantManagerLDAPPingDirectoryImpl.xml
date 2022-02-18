@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <c:config xmlns:c="http://www.sourceid.org/2004/05/config">
 
-    <!-- Data store ID Demo change-->
+    <!-- Data store ID Changed name and this comment-->
     <c:item name="PingFederateDSJNDIName"></c:item>
 
     <!-- LDAP search base. This should point to your accessGrants location. eg. OU=AccessGrants,DC=4s8i6q,DC=global -->
